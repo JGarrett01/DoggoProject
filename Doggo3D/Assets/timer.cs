@@ -6,6 +6,8 @@ public class timer : MonoBehaviour {
 
     public float time = 30;
     public float starttimer = 2;
+    public scr_GameController gameController;
+
 
 	// Use this for initialization
 	void Start () {
@@ -44,7 +46,7 @@ public class timer : MonoBehaviour {
         if (other.gameObject.tag == "TennisBall" && starttimer <= 0)
         {
             Fungus.Flowchart.BroadcastFungusMessage("Fetched");
-            
+            time = 30;
 
         }
 

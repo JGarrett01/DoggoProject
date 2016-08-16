@@ -10,6 +10,7 @@ public class scr_OwnerController : MonoBehaviour {
 	public GameObject ballLaunch;
 	public float ballTimer = 3f;
 
+
 	// Use this for initialization
 	void Start () {
 		rb = GetComponent<Rigidbody>();
@@ -24,12 +25,16 @@ public class scr_OwnerController : MonoBehaviour {
 
 	void OnTriggerEnter(Collider other)
 	{
-		if (other.gameObject.tag == "TennisBall") 
+        thrust = Random.Range(1500, 3500);
+
+        if (other.gameObject.tag == "TennisBall") 
 		{
 			rb = other.GetComponent<Rigidbody> ();
 			other.gameObject.transform.position = ballLaunch.transform.position;
 
-			rb.AddForce(transform.forward * thrust);
+           
+            rb.AddForce(transform.forward * thrust);
+       
 		}
 	}
 		
