@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: f435aebc5003af144afd46111ffb27fd
+timeCreated: 1471323920
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body_Doberman_whole
+    100002: //RootNode
+    100004: Doberman_whole_claws
+    100006: Doberman_whole_eye_Lt_eyes_eye_texture
+    100008: Doberman_whole_eye_Lt_eyes_tear_duct
+    100010: Doberman_whole_eye_transp_eye_Lt_eyes
+    100012: Doberman_whole_eyes_eye_Rt_eye_texture
+    100014: Doberman_whole_eyes_eye_Rt_tear_duct
+    100016: Doberman_whole_eyes_eye_transp_eye_Rt
+    100018: Doberman_whole_gumsUpper_mouth
+    100020: Doberman_whole_mouth_gumsLower
+    100022: Doberman_whole_mouth_teethLower
+    100024: Doberman_whole_mouth_teethUpper
+    100026: Doberman_whole_mouth_tongue
+    100028: Doberman_whole_whiskers
+    400000: body_Doberman_whole
+    400002: //RootNode
+    400004: Doberman_whole_claws
+    400006: Doberman_whole_eye_Lt_eyes_eye_texture
+    400008: Doberman_whole_eye_Lt_eyes_tear_duct
+    400010: Doberman_whole_eye_transp_eye_Lt_eyes
+    400012: Doberman_whole_eyes_eye_Rt_eye_texture
+    400014: Doberman_whole_eyes_eye_Rt_tear_duct
+    400016: Doberman_whole_eyes_eye_transp_eye_Rt
+    400018: Doberman_whole_gumsUpper_mouth
+    400020: Doberman_whole_mouth_gumsLower
+    400022: Doberman_whole_mouth_teethLower
+    400024: Doberman_whole_mouth_teethUpper
+    400026: Doberman_whole_mouth_tongue
+    400028: Doberman_whole_whiskers
+    2300000: body_Doberman_whole
+    2300002: Doberman_whole_claws
+    2300004: Doberman_whole_eye_Lt_eyes_eye_texture
+    2300006: Doberman_whole_eye_Lt_eyes_tear_duct
+    2300008: Doberman_whole_eye_transp_eye_Lt_eyes
+    2300010: Doberman_whole_eyes_eye_Rt_eye_texture
+    2300012: Doberman_whole_eyes_eye_Rt_tear_duct
+    2300014: Doberman_whole_eyes_eye_transp_eye_Rt
+    2300016: Doberman_whole_gumsUpper_mouth
+    2300018: Doberman_whole_mouth_gumsLower
+    2300020: Doberman_whole_mouth_teethLower
+    2300022: Doberman_whole_mouth_teethUpper
+    2300024: Doberman_whole_mouth_tongue
+    2300026: Doberman_whole_whiskers
+    3300000: body_Doberman_whole
+    3300002: Doberman_whole_claws
+    3300004: Doberman_whole_eye_Lt_eyes_eye_texture
+    3300006: Doberman_whole_eye_Lt_eyes_tear_duct
+    3300008: Doberman_whole_eye_transp_eye_Lt_eyes
+    3300010: Doberman_whole_eyes_eye_Rt_eye_texture
+    3300012: Doberman_whole_eyes_eye_Rt_tear_duct
+    3300014: Doberman_whole_eyes_eye_transp_eye_Rt
+    3300016: Doberman_whole_gumsUpper_mouth
+    3300018: Doberman_whole_mouth_gumsLower
+    3300020: Doberman_whole_mouth_teethLower
+    3300022: Doberman_whole_mouth_teethUpper
+    3300024: Doberman_whole_mouth_tongue
+    3300026: Doberman_whole_whiskers
+    4300000: body_Doberman_whole
+    4300002: Doberman_whole_claws
+    4300004: Doberman_whole_eye_Lt_eyes_eye_texture
+    4300006: Doberman_whole_eye_Lt_eyes_tear_duct
+    4300008: Doberman_whole_eye_transp_eye_Lt_eyes
+    4300010: Doberman_whole_eyes_eye_Rt_eye_texture
+    4300012: Doberman_whole_eyes_eye_Rt_tear_duct
+    4300014: Doberman_whole_eyes_eye_transp_eye_Rt
+    4300016: Doberman_whole_gumsUpper_mouth
+    4300018: Doberman_whole_mouth_gumsLower
+    4300020: Doberman_whole_mouth_teethLower
+    4300022: Doberman_whole_mouth_teethUpper
+    4300024: Doberman_whole_mouth_tongue
+    4300026: Doberman_whole_whiskers
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
