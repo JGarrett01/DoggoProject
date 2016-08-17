@@ -1,0 +1,16 @@
+newmtl body_croppedEarsTailSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 0.27
+newmtl eye_outer_RtSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 0.07 0.07 0.07
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
