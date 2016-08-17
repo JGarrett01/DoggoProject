@@ -16,6 +16,9 @@ public class scr_PlayerController : MonoBehaviour {
 	public CapsuleCollider capCol;
 	public CharacterJoint joint;
 
+	public GameObject arrow1;
+	public GameObject arrow2;
+
 	//-------------------- Dog Interaction
 
 	public scr_DogInteraction dogInteraction;
@@ -62,6 +65,9 @@ public class scr_PlayerController : MonoBehaviour {
 			currPickup.GetComponent<Collider> ().enabled = false;
 
 			capCol.enabled = false;
+
+			arrow1.SetActive (false);
+			arrow2.SetActive (false);
 		}
 
 
@@ -74,6 +80,9 @@ public class scr_PlayerController : MonoBehaviour {
 			capCol.enabled = true;
 			joint.connectedBody = null;
 			dogInteraction.jaxTennisBall = false;
+
+			arrow1.SetActive (true);
+			arrow2.SetActive (true);
 		}
 
 //		if (currPickup == null) 

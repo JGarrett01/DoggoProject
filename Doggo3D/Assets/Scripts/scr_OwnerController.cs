@@ -27,20 +27,18 @@ public class scr_OwnerController : MonoBehaviour {
 
 	void OnTriggerEnter(Collider other)
 	{
-        thrust = Random.Range(1500, 3500);
+        thrust = Random.Range(1500, 4000);
 
         if (other.gameObject.tag == "TennisBall") 
 		{
+			ownerRot.transform.Rotate (new Vector3(ownerRot.transform.rotation.x, Random.Range (-40, 40), ownerRot.transform.rotation.z));
 			rb = other.GetComponent<Rigidbody> ();
 			other.gameObject.transform.position = ballLaunch.transform.position;
 
            
             rb.AddForce(transform.forward * thrust);
 
-            
 
-            
-       
 		}
 	}
 		

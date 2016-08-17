@@ -22,7 +22,7 @@ public class scr_GameController : MonoBehaviour {
 
     public Light light2;
 
-   
+ 
 
     // Use this for initialization
     void Start()
