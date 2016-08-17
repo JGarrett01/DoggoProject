@@ -250,6 +250,7 @@
      <Compile Include="Assets\Scripts\scr_PlayerController.cs" />
      <Compile Include="Assets\Scripts\scr_Princess.cs" />
      <Compile Include="Assets\Scripts\scr_Zeus.cs" />
+     <Compile Include="Assets\timer.cs" />
      <None Include="Assets\Standard Assets\Kitten\Shaders\Normal-Diffuse.shader" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_TransparentOverlay.shader" />
      <None Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\README.txt" />
@@ -296,6 +297,7 @@
      <None Include="Assets\Fungus\Thirdparty\FungusLua\Resources\Lua\inspect.txt" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
      <None Include="Assets\Fungus\Thirdparty\FungusLua\Resources\Lua\fungus.txt" />
+     <None Include="Assets\Dog\Wolf model for the blender game engine.txt" />
      <None Include="Assets\ProCore\ProBuilder\About\Credits.txt" />
      <None Include="Assets\Fungus\CHANGELOG.txt" />
      <None Include="Assets\Fungus\Thirdparty\Reorderable List Field\Editor\Editor.ReorderableList.xml" />
