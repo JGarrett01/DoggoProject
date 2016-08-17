@@ -9,6 +9,8 @@ public class scr_OwnerController : MonoBehaviour {
 	public List<GameObject> spheres;
 	public GameObject ballLaunch;
 	public float ballTimer = 3f;
+    public GameObject ownerRot;
+
 
 
 	// Use this for initialization
@@ -34,6 +36,10 @@ public class scr_OwnerController : MonoBehaviour {
 
            
             rb.AddForce(transform.forward * thrust);
+
+            
+
+            
        
 		}
 	}
